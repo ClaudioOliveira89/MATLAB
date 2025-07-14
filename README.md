@@ -1,6 +1,6 @@
 ### This repository documents my learning and development journey with MATLAB and Octave, including practical projects and experiments.
-![Matlab](https://img.shields.io/badge/Matlab-black?style=for-the-badge&logo=Matlab&logoColor=25fafe) 
-![Octave](https://img.shields.io/badge/Octave-black?style=for-the-badge&logo=Octave&logoColor=25fafe) 
+![Matlab](https://img.shields.io/badge/Matlab-0d1117?style=for-the-badge&logo=Matlab&logoColor=25fafe) 
+![Octave](https://img.shields.io/badge/Octave-0d1117?style=for-the-badge&logo=Octave&logoColor=25fafe) 
 
 ---
 This repository was created for academic purposes to document my learning journey with MATLAB and GNU Octave — powerful tools for data analysis, scientific computing, and mathematical modeling. These environments are widely used in engineering, physics, finance, and many scientific domains for matrix manipulation, algorithm development, data visualization, and numerical computation.
